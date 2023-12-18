@@ -1,8 +1,7 @@
- Hi there 👋
-
+<html>
 <!--**MosesKortu/MosesKortu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-👋 Hi there! I'm Moses 
+<h4>👋 Hi there! I'm Moses </h4>
 
 📊 Passionate about the intersection of business and data
 
@@ -37,4 +36,4 @@
 <!-- Add any additional sections you'd like to include -->
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact:  I Love Arts, Classical Music & Jazz Fanatic and I make 
-
+</html>
