@@ -2,9 +2,9 @@
 
 <!--**MosesKortu/MosesKortu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-###👋 Hi there! I'm Moses 
+👋 Hi there! I'm Moses 
 
- 📊 Passionate about the intersection of business and data
+📊 Passionate about the intersection of business and data
 
 💻 Currently honing my skills in Business Analytics Tools and Techs
 
@@ -26,9 +26,9 @@
 
 📧 Feel free to reach out for collaborations, discussions, or just to say hi!
 
-🔗 [LinkedIn][(Your LinkedIn Pr(https://www.linkedin.com/feed/)
+🔗 [LinkedIn](https://www.linkedin.com/feed/)
 
-🔗 [Twitter][(Your Twitter Profile Link)](https://twitter.com/MosesKortu)
+🔗 [Twitter](https://twitter.com/MosesKortu)
 
 ### 📈 GitHub Stats
 
