@@ -1,7 +1,7 @@
 <html>
 <!--**MosesKortu/MosesKortu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h4>👋 Hi there! I'm Moses </h4>
+### 👋 Hi there! I'm Moses
 
 📊 Passionate about the intersection of business and data
 
@@ -15,6 +15,7 @@
 
 🚀 Developing expertise in Python, ML using Dataaiku, Apache SPark with a focus on Data Analysis.
 <hr/>
+
 ### 🌱 What I'm Learning
 
 📈 Improving my data cleaning and analysis techniques.
@@ -23,6 +24,7 @@
 
 📊 Enhancing my proficiency in statistical analysis.
 <hr/>
+
 ### 🤝 Let's Connect
 
 📧 Feel free to reach out for collaborations, discussions, or just to say hi!
@@ -31,6 +33,7 @@
 
 🔗 [Twitter](https://twitter.com/MosesKortu)
 <hr/>
+
 ### 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)
