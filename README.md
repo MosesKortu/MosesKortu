@@ -7,7 +7,7 @@
 
 💻 Currently honing my skills in Business Analytics Tools and Techs
 
-<br/>
+<hr/>
 
 ### 🔍 What I'm Working On
 
