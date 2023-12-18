@@ -1,6 +1,5 @@
  Hi there 👋
 
-<!--
 **MosesKortu/MosesKortu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -41,4 +40,4 @@ Here are some ideas to get you started:
 <!-- Add any additional sections you'd like to include -->
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact:  I Love Arts, Classical Music & Jazz Fanatic and I make 
--->
+
