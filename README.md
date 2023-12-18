@@ -3,8 +3,7 @@
 **MosesKortu/MosesKortu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png) | <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="100" height="100">
-
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png) 
 👋 Hi there! I'm Moses
 
  📊 Passionate about the intersection of business and data
