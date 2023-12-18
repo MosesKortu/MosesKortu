@@ -3,8 +3,8 @@
 **MosesKortu/MosesKortu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png) 
-👋 Hi there! I'm Moses
+
+<h3>👋 Hi there! I'm Moses </h3>
 
  📊 Passionate about the intersection of business and data
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 📧 Feel free to reach out for collaborations, discussions, or just to say hi!
 
-🔗 [LinkedIn][(Your LinkedIn Profile Link)](https://www.linkedin.com/feed/)
+🔗 [LinkedIn][(Your LinkedIn Pr(https://www.linkedin.com/feed/)
 
 🔗 [Twitter][(Your Twitter Profile Link)](https://twitter.com/MosesKortu)
 
