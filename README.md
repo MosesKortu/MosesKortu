@@ -6,7 +6,7 @@
 📊 Passionate about the intersection of business and data
 
 💻 Currently honing my skills in Business Analytics Tools and Techs
-<br>
+<br/>
 
 ### 🔍 What I'm Working On
 
