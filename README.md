@@ -26,7 +26,7 @@
 
 📧 Feel free to reach out for collaborations, discussions, or just to say hi!
 
-🔗 [LinkedIn](https://www.linkedin.com/feed/)
+🔗 [LinkedIn](https://www.linkedin.com/in/moses-k-63961b111/)
 
 🔗 [Twitter](https://twitter.com/MosesKortu)
 
