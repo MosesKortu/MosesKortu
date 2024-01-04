@@ -40,5 +40,5 @@
 
 <!-- Add any additional sections you'd like to include -->
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact:  I Love Arts, Classical Music & Jazz Fanatic and I make 
+- ⚡ Fun fact:  I Love Arts, Classical Music & Jazz Fanatic 
 </html>
