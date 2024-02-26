@@ -1,7 +1,15 @@
 <html>
 <!--**MosesKortu/MosesKortu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-### 👋 Hi there! I'm Moses
+
+<h1 align="center">Hi there! I'm Moses 👋</h1>  
+
+<p align="center">
+  <a href="">Website</a> •
+  <a href="https://www.linkedin.com/in/moses-k-63961b111/">LinkedIn</a> •
+  <a href="https://twitter.com/MosesKortu">Twitter</a>
+</p>
+
 
 📊 Passionate about the intersection of business and data
 
@@ -13,7 +21,7 @@
 
 🌐 Exploring the latest trends in business analytics and data science.
 
-🚀 Developing expertise in Python, ML using Dataaiku, Apache SPark with a focus on Data Analysis.
+🚀 Developing expertise in SQL, NoSQL, Python, ML, Data Analysis and Visualization.
 <hr/>
 
 ### 🌱 What I'm Learning
@@ -35,10 +43,12 @@
 <hr/>
 
 ### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MosesKortu&show_icons=true)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MosesKortu&layout=compact)
+
 
 <!-- Add any additional sections you'd like to include -->
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact:  I Love Arts, Classical Music & Jazz Fanatic 
+- ⚡ Fun fact:  I Love Arts, Classical Music & I am a Jazz Fanatic 
 </html>
