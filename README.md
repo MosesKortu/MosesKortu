@@ -21,16 +21,14 @@
 
 🌐 Exploring the latest trends in business analytics and data science.
 
-🚀 Expertise in Data Analysis [Excel, SQL, Python], NoSQL, ML, and Visualization [Power BI, Looker and Tableau].
+🚀 Expertise in Data Analysis [Excel, SQL, Python],and Visualization [Power BI, Looker and Tableau].
 <hr/>
 
 ### 🌱 What I'm Learning
 
-📈 Improving my data cleaning and analysis techniques.
+📈 Improving my NoSQL, statistical analysis expertise.
 
-📈 Improving my data visualization techniques.
-
-📊 Enhancing my proficiency in statistical analysis.
+📊 Enhancing my proficiency in ML  .
 <hr/>
 
 ### 🤝 Let's Connect
