@@ -1,52 +1,61 @@
-<html>
-<!--**MosesKortu/MosesKortu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!-- 
+  ✨ Optimized GitHub Profile README ✨
+  This is clean, modern Markdown + light HTML for perfect GitHub rendering.
+  Copy everything below (including the comment) into your README.md
+-->
 
+<div align="center">
+  <h1>Hi there! I'm Moses 👋</h1>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/moses-k-63961b111/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://twitter.com/MosesKortu">
+      <img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white" alt="𝕏 (Twitter)">
+    </a>
+  </p>
 
-<h1 align="center">Hi there! I'm Moses 👋</h1>  
+  <p><strong>Passionate about the intersection of business &amp; data 📊</strong></p>
+  <p>Currently honing my skills in Business Analytics tools &amp; technologies 💻</p>
+</div>
 
-<p align="center">
-  <a href="">Website</a> •
-  <a href="https://www.linkedin.com/in/moses-k-63961b111/">LinkedIn</a> •
-  <a href="https://twitter.com/MosesKortu">Twitter</a>
-</p>
-
-
-📊 Passionate about the intersection of business and data
-
-💻 Currently honing my skills in Business Analytics Tools and Techs
-
-<hr/>
+---
 
 ### 🔍 What I'm Working On
+- 🌐 Exploring the latest trends in **business analytics** and **data science**
+- 🚀 Expertise in **Data Analysis**: Excel • SQL • Python
+- 📊 Expertise in **Visualization**: Power BI • Looker • Tableau
 
-🌐 Exploring the latest trends in business analytics and data science.
-
-🚀 Expertise in Data Analysis [Excel, SQL, Python],and Visualization [Power BI, Looker and Tableau].
-<hr/>
+---
 
 ### 🌱 What I'm Learning
+- 📈 NoSQL databases &amp; advanced statistical analysis
+- 🤖 Machine Learning to drive smarter business decisions
 
-📈 Improving my NoSQL, statistical analysis expertise.
-
-📊 Enhancing my proficiency in ML  .
-<hr/>
+---
 
 ### 🤝 Let's Connect
+Feel free to reach out for collaborations, discussions, or just to say hi! 📧
 
-📧 Feel free to reach out for collaborations, discussions, or just to say hi!
+- **[LinkedIn](https://www.linkedin.com/in/moses-k-63961b111/)**
+- **[𝕏 (Twitter)](https://twitter.com/MosesKortu)**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/moses-k-63961b111/)
-
-🔗 [Twitter](https://twitter.com/MosesKortu)
-<hr/>
+---
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MosesKortu&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MosesKortu&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MosesKortu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesKortu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+</div>
 
+---
 
-<!-- Add any additional sections you'd like to include -->
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact:  I Love Arts, Classical Music & I am a Jazz Fanatic 
-</html>
+<div align="center">
+
+**😄 Pronouns:** He/Him/His  
+
+**⚡ Fun fact:** I Love Arts, Classical Music &amp; I am a Jazz Fanatic 🎷🎹
+
+</div>
