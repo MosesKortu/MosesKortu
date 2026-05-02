@@ -48,10 +48,11 @@ Feel free to reach out for collaborations, discussions, or just to say hi! 📧
 </div>
 ---
 
+### Pronouns:
+
+**He/Him/His**  
+---
 <div align="center">
-
-**Pronouns:** He/Him/His  
-
-**⚡ Fun fact:** I Love Arts, Classical Music &amp; I am a Jazz Fanatic 🎷🎹
+**Fun fact:** I Love Arts, Classical Music &amp; I am a Jazz Fanatic 🎷🎹
 
 </div>
