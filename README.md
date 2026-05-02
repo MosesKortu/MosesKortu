@@ -32,6 +32,7 @@
 ### 🌱 What I'm Learning
 - NoSQL databases &amp; advanced statistical analysis
 - Machine Learning to drive smarter business decisions
+- AI Automation  & Product Management 
 
 ---
 
