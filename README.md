@@ -22,7 +22,7 @@
 
 ---
 
-### 🔍 What I'm Working On
+### What I'm Working On
 - Exploring the latest trends in **business analytics** and **data science**
 - Expertise in **Data Analysis**: Excel • SQL • Python
 - Expertise in **Visualization**: Power BI • Looker • Tableau
@@ -44,7 +44,6 @@ Feel free to reach out for collaborations, discussions, or just to say hi! 📧
 ---
 ### GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MosesKortu&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" style="margin: 0 1%;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MosesKortu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" style="margin: 0 1%;" />
 </div>
 ---
